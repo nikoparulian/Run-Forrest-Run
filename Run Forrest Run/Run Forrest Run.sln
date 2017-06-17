@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run Forrest Run", "Assembly-CSharp.csproj", "{A3AFD000-7326-E82F-EE0B-D8BD65E4FB6A}"
+EndProject
+Project("{3B58D2E2-2FC6-885B-A552-3BAB15C45526}") = "Run Forrest Run", "Assembly-UnityScript.unityproj", "{CCF0DA30-27FA-5A0B-A0AC-C73DD7AB9A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AFD000-7326-E82F-EE0B-D8BD65E4FB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AFD000-7326-E82F-EE0B-D8BD65E4FB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AFD000-7326-E82F-EE0B-D8BD65E4FB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AFD000-7326-E82F-EE0B-D8BD65E4FB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF0DA30-27FA-5A0B-A0AC-C73DD7AB9A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF0DA30-27FA-5A0B-A0AC-C73DD7AB9A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF0DA30-27FA-5A0B-A0AC-C73DD7AB9A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF0DA30-27FA-5A0B-A0AC-C73DD7AB9A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
