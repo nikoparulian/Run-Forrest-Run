@@ -1,4 +1,4 @@
-# Run Forrest Run Mini Game
+# Run Forrest Run
 
 ### **Story Board**
 
